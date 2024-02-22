@@ -27,7 +27,7 @@ export default [
     {
       "id": "6",
       "imageName": 'img6.jpg',
-      "tag": 'Flower'
+      "tag": 'Animal'
     },
     {
       "id": "7",
@@ -37,7 +37,7 @@ export default [
     {
       "id": "8",
       "imageName": 'img8.jpg',
-      "tag": 'Flower'
+      "tag": 'Animal'
     },
     {
       "id": "9",
@@ -47,12 +47,12 @@ export default [
     {
       "id": "10",
       "imageName": 'img10.jpg',
-      "tag": 'Animal'
+      "tag": 'Flower'
     },
     {
       "id": "11",
       "imageName": 'img11.jpg',
-      "tag": 'Animal'
+      "tag": 'Flower'
     },
     {
       "id": "12",
@@ -72,62 +72,62 @@ export default [
     {
       "id": "15",
       "imageName": 'img15.jpg',
-      "tag": 'Nature'
+      "tag": 'Animal'
     },
     {
       "id": "16",
       "imageName": 'img16.jpg',
-      "tag": 'Nature'
+      "tag": 'Others'
     },
     {
       "id": "17",
       "imageName": 'img17.jpg',
-      "tag": 'Nature'
+      "tag": 'Art/Craft'
     },
     {
       "id": "18",
       "imageName": 'img18.jpg',
-      "tag": 'Nature'
+      "tag": 'Illumination'
     },
     {
       "id": "19",
       "imageName": 'img19.jpg',
-      "tag": 'Nature'
+      "tag": 'Illumination'
     },
     {
       "id": "20",
       "imageName": 'img20.jpg',
-      "tag": 'Nature'
+      "tag": 'Road'
     },
     {
       "id": "21",
       "imageName": 'img21.jpg',
-      "tag": 'Nature'
+      "tag": 'Road'
     },
     {
       "id": "22",
       "imageName": 'img22.jpg',
-      "tag": 'Nature'
+      "tag": 'Art/Craft'
     },
     {
       "id": "23",
       "imageName": 'img23.jpg',
-      "tag": 'Nature'
+      "tag": 'Animal'
     },
     {
       "id": "24",
       "imageName": 'img24.jpg',
-      "tag": 'Nature'
+      "tag": 'Flower'
     },
     {
       "id": "25",
       "imageName": 'img25.jpg',
-      "tag": 'Nature'
+      "tag": 'Animal'
     },
     {
       "id": "26",
       "imageName": 'img26.jpg',
-      "tag": 'Nature'
+      "tag": 'Illumination'
     },
     {
       "id": "27",
@@ -137,76 +137,76 @@ export default [
     {
       "id": "28",
       "imageName": 'img28.jpg',
-      "tag": 'Road'
+      "tag": 'Flower'
     },
     {
       "id": "29",
       "imageName": 'img29.jpg',
-      "tag": 'Road'
+      "tag": 'Nature'
     },
     {
       "id": "30",
       "imageName": 'img30.jpg',
-      "tag": 'Road'
+      "tag": 'Flower'
     },
     {
       "id": "31",
       "imageName": 'img31.jpg',
-      "tag": 'Road'
+      "tag": 'Animal'
     },
     {
       "id": "32",
       "imageName": 'img32.jpg',
-      "tag": 'Nature'
+      "tag": 'Flower'
     },
     {
       "id": "33",
       "imageName": 'img33.jpg',
-      "tag": 'Others'
+      "tag": 'Flower'
     },
     {
       "id": "34",
       "imageName": 'img34.jpg',
-      "tag": 'Others'
+      "tag": 'Nature'
     },
     {
       "id": "35",
       "imageName": 'img35.jpg',
-      "tag": 'Others'
+      "tag": 'Nature'
     },
     {
       "id": "36",
       "imageName": 'img36.jpg',
-      "tag": 'Others'
+      "tag": 'Flower'
     },
     {
       "id": "37",
       "imageName": 'img37.jpg',
-      "tag": 'Others'
+      "tag": 'Product'
     },
     {
       "id": "38",
       "imageName": 'img38.jpg',
-      "tag": 'Others'
+      "tag": 'Animal'
     },
     {
       "id": "39",
       "imageName": 'img39.jpg',
-      "tag": 'Others'
+      "tag": 'Animal'
     },
     {
       "id": "40",
       "imageName": 'img40.jpg',
-      "tag": 'Others'
+      "tag": 'Road'
     },
     {
       "id": "41",
       "imageName": 'img41.jpg',
-      "tag": 'Others'
+      "tag": 'Flower'
     },
     {
       "id": "42",
       "imageName": 'img42.jpg',
-      "tag": 'Others'
+      "tag": 'Flower'
     }
   ]
